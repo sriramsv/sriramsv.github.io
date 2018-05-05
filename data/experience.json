@@ -1,0 +1,26 @@
+[
+    {
+        "role":"Software Engineer II",
+        "company":"Oath.Inc",
+        "summary":"Worked On Platform-As-A-Service using Mesos,Marathon,Docker and Golang,built AWS and Kubernetes related infrastructure tools",
+        "range":"Feb 2017 - Present"
+    },
+    {
+        "role":"Technical Intern II",
+        "company":"Yahoo!.Inc",
+        "summary":"Built Microservices and cli tools for Platform as a service",
+        "range":"May 2016 - Aug 2016"
+    },
+    {
+        "role":"Research Assistant",
+        "company":"Zero Energy Network Labs",
+        "summary":"Research on Networked Embedded Systems and RF technology",
+        "range":"July 2014 - Apr 2015"
+    },
+    {
+        "role":"Information Security Engineer",
+        "company":"Paladion Networks",
+        "summary":"Worked on Vulnerability Assessment and Penetration Testing for clients across the globe",
+        "range":"July 2013 - June 2014"
+    }
+]

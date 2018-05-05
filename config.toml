@@ -1,0 +1,36 @@
+baseURL = "http://sriramsv.com"
+languageCode = "en-us"
+title = "Sriram S V"
+theme = "resume"
+
+[params]
+    firstName = "Sriram"
+    lastName = "Venkatakrishnarao"
+    address = "Sunnyvale,CA"
+    contactNote = "Software Engineer"
+    profileImage = "img/profile.jpg"
+    email = "sriramsv1991@gmail.com"
+    description = "Software Engineer with experience leveraging agile to manage large scale distributed platforms both on prem and in public cloud."
+    favicon = "images/favicon.ico"
+    # what sections
+    showSkills = true
+    showProjects = false
+    showOpenSource = false
+    showPublications = false
+    showExperience = true
+    showEducation = true
+
+    showQr = true
+
+[[params.handles]]
+    name = "LinkedIn"
+    link = "https://www.linkedin.com/in/sriramsv"
+
+
+[[params.handles]]
+    name = "GitHub"
+    link = "https://github.com/sriramsv"
+
+[[params.handles]]
+   name = "Instagram"
+   link = "https://instagram.com/sriramsv007"

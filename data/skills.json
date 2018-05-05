@@ -1,0 +1,10 @@
+[
+  {
+      "grouping":"Architecture",
+      "skills":[ "IP Networking","DNS","Firewalls","Load Balancing","Microservices","RESTful APIs","SaaS/PaaS/IaaS","Cryptography"]
+  },
+  {
+      "grouping":"Languages, Operating Systems & Tools",
+      "skills":[ "Go","Python","linux","shell scripting","javascript"]
+  }
+]
